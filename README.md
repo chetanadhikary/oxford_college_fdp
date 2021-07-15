@@ -1,5 +1,5 @@
 # Hands On Programming with Python
-Hands on material for AICTE Sponsored Short Term Training Program on Artificial Intelligence and machine Learning at AMC Engineering College,Department of Electronics & Communication Engineering.
+Hands on material for Faculty  Training Program on Artificial Intelligence and machine Learning at The Oxford College Of Engineering.
 <html>
 	<p> The folder structure is created and updated based on the coverage of python concepts for each session conducted</p>
     <h2> Session 1 </h2>
